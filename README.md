@@ -1,4 +1,4 @@
-# Capstone Project Udacity Machine Learning Engineer
+# Capstone Project Udacity Machine Learning Engineer Nanodegree
 
 This repository hosts files for the Capstone Project of Udacity's Machine Learning Nanodegree with Microsoft Azure.
 
